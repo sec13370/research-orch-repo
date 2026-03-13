@@ -4,6 +4,10 @@
     "qmd": {
       "version": "1.0.0",
       "installedAt": 1773398789240
+    },
+    "dory-memory": {
+      "version": "1.0.0",
+      "installedAt": 1773401222043
     }
   }
 }
